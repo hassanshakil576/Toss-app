@@ -1,0 +1,16 @@
+body{
+    background-color: #e7e7e7;
+}
+.main-head{
+    text-align: center;
+    margin-top: 10vh;
+    font-size: 3rem;
+}
+.buttons{
+    margin-top: 50px;
+}
+#result{
+    text-align: center;
+    margin-top: 15px;
+    font-size: 2rem;
+}
